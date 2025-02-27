@@ -5,8 +5,7 @@ I'm Sam, pro figure-outer and tinkerer. I like rethinking and innovating. I was 
 #### Currently
 - Working on a Counter-Strike 2 custom server browser at findservers.net
 - Learning more about minds, memory, and cognition
-- Writing about software and thinking on my [blog](https://substack.com/@smltr)
-- Trying to get my ADHD medication right (I like being open and talking about mental health)
+- Writing about software and thinking on my [blog](https://trouy.dev/blog)
 
 #### Previously
 - Founding engineer at SheetRocks (2021-2023)
@@ -28,11 +27,8 @@ I'm Sam, pro figure-outer and tinkerer. I like rethinking and innovating. I was 
 - Thinking from my death bed
 - Err on the side of honesty, so much so that it's noticeable and annoying
 
-#### Recent Writing
-- [Task Positive Programming: Don't Think, Just Do](https://substack.com/home/post/p-152584891)
-- [Human Memory](https://substack.com/home/post/p-152585049)
-
 #### Links
+- [Personal site](https://trouy.dev)
 - LinkedIn: [sam-trouy](https://linkedin.com/in/sam-trouy)
 - [FindServers.net](https://findservers.net)
 - [Steam](https://steamcommunity.com/id/cyrk/)
