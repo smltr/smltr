@@ -3,11 +3,12 @@
 I'm Sam, pro figure-outer and tinkerer. I like rethinking and innovating. I was born on a computer and am a nerd.
 
 #### Currently
-- Working on a Counter-Strike 2 custom server browser at findservers.net
+- Working on a Counter-Strike 2 custom server browser
 - Learning more about minds, memory, and cognition
 - Writing about software and thinking on my [blog](https://trouy.dev/blog)
 
 #### Previously
+- Worked on founding my own startup around agentic AI
 - Founding engineer at SheetRocks (2021-2023)
 - Many other various odd jobs before that
 
