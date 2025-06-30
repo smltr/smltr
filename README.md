@@ -1,39 +1,25 @@
 ### Hi, I'm me
 
-I'm Sam, pro figure-outer and tinkerer. I like rethinking and innovating. I was born on a computer and am a nerd.
+I'm Sam, pro figure-outer and tinkerer. I like rethinking and innovating.
 
 #### Currently
-- Working on a Counter-Strike 2 custom server browser
+- Working on a Counter-Strike 2 custom server browser [findservers.net](https://findservers.net)
 - Learning more about minds, memory, and cognition
 - Writing about software and thinking on my [blog](https://trouy.dev/blog)
+- Designing a programming language
 
 #### Previously
-- Worked on founding my own startup around agentic AI
-- Founding engineer at SheetRocks (2021-2023)
+- Founded and self-funded a startup around agentic AI
+- Founding engineer at a seed-stage startup
 - Many other various odd jobs before that
 
-#### Stuff & junk I like
-- My wife and 2 kids
+#### Stuff I like
 - [Zed code editor](https://zed.dev)
 - LLMs, AI
 - Reading & writing
-- Futurama (can you spot the reference in this readme?)
-- Half-Life, Counter-Strike
-- Being on my computer
+- Games
 - Linux (currently using Mint)
+- Plain text
 
-#### Some snippets of my current defining concepts
-- Rethink everything while respecting & building upon the past
-- Determination before planning
-- Thinking from my death bed
-- Err on the side of honesty, so much so that it's noticeable and annoying
+[LinkedIn](https://linkedin.com/in/sam-trouy)
 
-#### Links
-- [Personal site](https://trouy.dev)
-- LinkedIn: [sam-trouy](https://linkedin.com/in/sam-trouy)
-- [FindServers.net](https://findservers.net)
-- [Steam](https://steamcommunity.com/id/cyrk/)
-
----
-
-*LIW: life is weird*
