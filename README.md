@@ -2,6 +2,8 @@
 
 I'm Sam. Figure-outer and tinkerer. I like rethinking and innovating.
 
+See my [about-me](https://github.com/smltr/about-me) repo for a deep dive into my professional experience in tech.
+
 #### Currently
 - Working on a Counter-Strike 2 custom server browser [findservers.net](https://findservers.net)
 - Learning more about minds, memory, and cognition
