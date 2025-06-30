@@ -1,6 +1,6 @@
-### Hi, I'm me
+### Hello
 
-I'm Sam, pro figure-outer and tinkerer. I like rethinking and innovating.
+I'm Sam. Figure-outer and tinkerer. I like rethinking and innovating.
 
 #### Currently
 - Working on a Counter-Strike 2 custom server browser [findservers.net](https://findservers.net)
